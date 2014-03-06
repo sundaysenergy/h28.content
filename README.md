@@ -3,7 +3,7 @@ H28 Building
 
 ## Stucture Information
 
-* Building Name: H28
+* Building Name: [H28](http://www.h28.co)
 * Property ID: [3302924420019](http://apps.ci.minneapolis.mn.us/PIApp/GeneralInfoRpt.aspx?pid=3302924420019)
 * Hennepin County [Tax Info](http://www16.co.hennepin.mn.us/pins/printdetails.jsp?pid=3302924420019)
 
