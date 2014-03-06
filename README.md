@@ -7,6 +7,9 @@ H28 Building
 * Property ID: [3302924420019](http://apps.ci.minneapolis.mn.us/PIApp/GeneralInfoRpt.aspx?pid=3302924420019)
 * Hennepin County [Tax Info](http://www16.co.hennepin.mn.us/pins/printdetails.jsp?pid=3302924420019)
 
+### Exits
+* Front door of 2753 is 40" wide.
+
 ### Address
 [2751 Hennepin Ave S,](https://www.google.com/maps?t=m&sll=44.9521483,-93.2980766&sspn=0.0058313,0.0109864&q=2753+Hennepin+Ave&output=classic)
 Minneapolis, MN 55408
