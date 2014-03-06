@@ -5,6 +5,7 @@ H28 Building
 
 * Building Name: H28
 * Property ID: [3302924420019](http://apps.ci.minneapolis.mn.us/PIApp/GeneralInfoRpt.aspx?pid=3302924420019)
+* [Tax Info](http://www16.co.hennepin.mn.us/pins/printdetails.jsp?pid=3302924420019)
 
 ### Address
 2751 Hennepin Ave S,
