@@ -15,17 +15,19 @@ Minneapolis, MN 55408
 
 ### [KinhDo Restaurant](http://www.kinhdo.com)
 2755 Hennepin Ave, Minneapolis, MN 55408
-Occupancy: A-2
+
+* Occupancy: A-2
 
 ### [The UPS Store - Uptown #2175](http://minneapolis-mn-2175.theupsstorelocal.com)
 2751 Hennepin Ave, Minneapolis, MN 55408
-Occupancy: B
+
+* Occupancy: B
 
 ### [Sabai Body Temple](http://www.sabaibodytemple.com)
 2753 Hennepin Ave, Suite 201, Minneapolis, MN 55408
-Occupancy: Residential (R-2)
+* Occupancy: Residential (R-2)
 
 ### [Kai Curry Residence](http://www.kai.land)
 2753 Hennepin Ave, Apt #3, Minneapolis, MN 55408
-Occupancy: Residential (R-2)
+* Occupancy: Residential (R-2)
 
