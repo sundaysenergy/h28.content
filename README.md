@@ -8,7 +8,7 @@ H28 Building
 * Hennepin County [Tax Info](http://www16.co.hennepin.mn.us/pins/printdetails.jsp?pid=3302924420019)
 
 ### Address
-2751 Hennepin Ave S,
+[2751 Hennepin Ave S,](https://www.google.com/maps?t=m&sll=44.9521483,-93.2980766&sspn=0.0058313,0.0109864&q=2753+Hennepin+Ave&output=classic)
 Minneapolis, MN 55408
 
 ## Tenant List
