@@ -2,3 +2,7 @@
 
 title: H28 Building
 navbar: true
+nav:
+  -
+    title: Tsuga
+    link: "http://www.tsuga.co"
