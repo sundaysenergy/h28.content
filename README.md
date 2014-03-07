@@ -1,6 +1,3 @@
-H28 Building
-===========
-
 ## Stucture Information
 
 * Building Name: [H28](http://www.h28.co)
