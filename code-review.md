@@ -1,6 +1,5 @@
 # Building Code Analysis for Tenant Buildout
 
-### Address
 2753 Hennepin Av. S.  
 Minneapolis, MN 55408
 
@@ -19,22 +18,22 @@ Minneapolis, MN 55408
 * Non-Separated Use Building
 
 ### Building Area
-6,061 SF actual  
-Chapter 5 only applicable to enlarged and new structures
+* 6,061 SF actual  
+* Chapter 5 only applicable to enlarged and new structures
 
 ### Height and Number of Stories
-2 stories actual
-Chapter 5 only applicable to enlarged and new structures
+* 2 stories actual
+* Chapter 5 only applicable to enlarged and new structures
 
 ### Location on Property
-Chapter 5 only applicable to enlarged and new structures
+* Chapter 5 only applicable to enlarged and new structures
 
 ### Exterior Wall and Opening Protection
-No limit allowed on S, W & N / not permitted on E
-Openings on E actual
+* No limit allowed on S, W & N / not permitted on E
+* Openings on E actual
 
 ### Fire-Resistance Rating for Building Elements
-2 hr. exterior bearing walls for Type IIIB construction
+* 2 hr. exterior bearing walls for Type IIIB construction
 
 ### Fire-Resistance Rated Construction:
 * 2 hr. exterior bearing walls for Type IIIB construction
